@@ -1,3 +1,5 @@
+// looping of strings in C++
+// Printing each character of string by running loop
 #include <iostream>
 #include <string>
 using namespace std;
